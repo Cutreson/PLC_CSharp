@@ -8,15 +8,15 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using _01_ServoControl.BusinessLogicLayer;
 using ActUtlTypeLib;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace _01_ServoControl
 {
-    public partial class GUI : Form
+    public partial class UIHome : Form
     {
-        private ActUtlType plc;
-        public GUI()
+        public UIHome()
         {
             InitializeComponent();
             Control.CheckForIllegalCrossThreadCalls = false;
@@ -24,19 +24,18 @@ namespace _01_ServoControl
 
         private void GUI_Load(object sender, EventArgs e)
         {
-            plc = new ActUtlType();
-            Thread thrd = new Thread(Demo);
-            thrd.IsBackground = true;
-            thrd.Start();
+            Thread updateData = new Thread(UpdateData);
+            updateData.IsBackground = true;
+            updateData.Start();
         }
-        void Demo()
+        void UpdateData()
         {
             while(true)
             {
                 try
                 {
                     int readData;
-                    ConnectPLC.plc.GetDevice("D12", out readData);
+                    PLCConnector.GetDevice("D12", out readData);
                     txtCurrentPosition.Text = readData.ToString();      
                 }
                 catch (Exception ex)
@@ -49,7 +48,7 @@ namespace _01_ServoControl
         }
         private void connectionToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            GUIConnection gui = new GUIConnection();
+            UIConnection gui = new UIConnection();
             gui.Show();
         }
 
@@ -57,9 +56,9 @@ namespace _01_ServoControl
         {
             try
             {
-                ConnectPLC.plc.SetDevice("M44", 1);
+                PLCConnector.SetDevice("M44", 1);
                 Thread.Sleep(10);
-                ConnectPLC.plc.SetDevice("M44", 0);
+                PLCConnector.SetDevice("M44", 0);
             }
             catch(Exception ex)
             {
@@ -72,9 +71,9 @@ namespace _01_ServoControl
         {
             try
             {
-                ConnectPLC.plc.SetDevice("M45", 1);
+                PLCConnector.SetDevice("M45", 1);
                 Thread.Sleep(10);
-                ConnectPLC.plc.SetDevice("M45", 0);
+                PLCConnector.SetDevice("M45", 0);
             }
             catch (Exception ex)
             {

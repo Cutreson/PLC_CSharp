@@ -1,4 +1,5 @@
-﻿using System;
+﻿using _01_ServoControl.BusinessLogicLayer;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -10,9 +11,9 @@ using System.Windows.Forms;
 
 namespace _01_ServoControl
 {
-    public partial class GUIConnection : Form
+    public partial class UIConnection : Form
     {
-        public GUIConnection()
+        public UIConnection()
         {
             InitializeComponent();
         }
@@ -27,7 +28,7 @@ namespace _01_ServoControl
                 }
                 else
                 {
-                    if (ConnectPLC.Connect(Convert.ToInt32(txtLogicalStationNumber.Text)))
+                    if (PLCConnector.Connect(Convert.ToInt32(txtLogicalStationNumber.Text)))
                     {
                         MessageBox.Show("Connected", "Connection", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         this.Close();
@@ -55,7 +56,7 @@ namespace _01_ServoControl
                 }
                 else
                 {
-                    if (ConnectPLC.Disconnect())
+                    if (PLCConnector.Disconnect())
                     {
                         MessageBox.Show("Disconnected", "Connection");
                         this.Close();

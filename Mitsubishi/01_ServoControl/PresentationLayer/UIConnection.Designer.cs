@@ -1,6 +1,6 @@
 ﻿namespace _01_ServoControl
 {
-    partial class GUIConnection
+    partial class UIConnection
     {
         /// <summary>
         /// Required designer variable.

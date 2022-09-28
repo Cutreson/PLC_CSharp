@@ -1,6 +1,6 @@
 ﻿namespace _01_ServoControl
 {
-    partial class GUI
+    partial class UIHome
     {
         /// <summary>
         /// Required designer variable.

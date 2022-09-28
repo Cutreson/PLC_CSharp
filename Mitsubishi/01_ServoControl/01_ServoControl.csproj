@@ -46,27 +46,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ActDefine.cs" />
-    <Compile Include="ConnectPLC.cs" />
-    <Compile Include="GUI.cs">
+    <Compile Include="BusinessLogicLayer\PLCConnector.cs" />
+    <Compile Include="DataAccessLayer\MXDriver.cs" />
+    <Compile Include="PresentationLayer\UIHome.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="GUI.Designer.cs">
-      <DependentUpon>GUI.cs</DependentUpon>
+    <Compile Include="PresentationLayer\UIHome.Designer.cs">
+      <DependentUpon>UIHome.cs</DependentUpon>
     </Compile>
-    <Compile Include="GUIConnection.cs">
+    <Compile Include="PresentationLayer\UIConnection.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="GUIConnection.Designer.cs">
-      <DependentUpon>GUIConnection.cs</DependentUpon>
+    <Compile Include="PresentationLayer\UIConnection.Designer.cs">
+      <DependentUpon>UIConnection.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="GUI.resx">
-      <DependentUpon>GUI.cs</DependentUpon>
+    <EmbeddedResource Include="PresentationLayer\UIHome.resx">
+      <DependentUpon>UIHome.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="GUIConnection.resx">
-      <DependentUpon>GUIConnection.cs</DependentUpon>
+    <EmbeddedResource Include="PresentationLayer\UIConnection.resx">
+      <DependentUpon>UIConnection.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
