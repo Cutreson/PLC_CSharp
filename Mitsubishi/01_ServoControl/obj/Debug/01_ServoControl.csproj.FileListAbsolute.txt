@@ -1,0 +1,15 @@
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\bin\Debug\01_ServoControl.exe.config
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\bin\Debug\01_ServoControl.exe
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\bin\Debug\01_ServoControl.pdb
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\bin\Debug\Interop.ActUtlTypeLib.dll
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\obj\Debug\01_ServoControl.csproj.AssemblyReference.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\obj\Debug\01_ServoControl.csproj.SuggestedBindingRedirects.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\obj\Debug\Interop.ActUtlTypeLib.dll
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\obj\Debug\01_ServoControl.csproj.ResolveComReference.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\obj\Debug\_01_ServoControl.GUI.resources
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\obj\Debug\_01_ServoControl.GUIConnection.resources
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\obj\Debug\_01_ServoControl.Properties.Resources.resources
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\obj\Debug\01_ServoControl.csproj.GenerateResource.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\obj\Debug\01_ServoControl.csproj.CoreCompileInputs.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\obj\Debug\01_ServoControl.exe
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\obj\Debug\01_ServoControl.pdb
