@@ -17,7 +17,7 @@ namespace _01_ServoControl
         {
             InitializeComponent();
         }
-
+        //Xử lý sự kiện nhấn nút Connect
         private void btnConnect_Click(object sender, EventArgs e)
         {
             try
@@ -45,7 +45,7 @@ namespace _01_ServoControl
                 return;
             }
         }
-
+        //Xử lý sự kiện nhấn nút Disconnect
         private void btnDisconnect_Click(object sender, EventArgs e)
         {
             try

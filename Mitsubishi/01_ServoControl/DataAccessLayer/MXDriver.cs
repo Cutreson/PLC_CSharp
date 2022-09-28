@@ -8,12 +8,19 @@ using ActUtlTypeLib;
 
 namespace _01_ServoControl
 {
+    /// <summary>
+    /// Driver kết nối với MX Component
+    /// </summary>
     public static class MXDriver
     {
         private static ActUtlType plc = new ActUtlType();
         private static bool isConnected;
 
-        
+        /// <summary>
+        /// Kết nối với MX Component
+        /// </summary>
+        /// <param name="logicalStationNumber">Chọn Logical Station</param>
+        /// <returns>Return true nếu kết nối thành công</returns>
         public static bool Connect(int logicalStationNumber)
         {
             try
@@ -32,6 +39,10 @@ namespace _01_ServoControl
             }
             return false;
         }
+        /// <summary>
+        /// Ngắt kết nối với MX Component
+        /// </summary>
+        /// <returns>Return true nếu ngắt kết nối thành công</returns>
         public static bool Disconnect()
         {
             try
@@ -49,10 +60,20 @@ namespace _01_ServoControl
             }
             return false;
         }
+        /// <summary>
+        /// Kiểm tra kết nối
+        /// </summary>
+        /// <returns>Return true nếu đã kết nối, return false nếu ngắt kết nối</returns>
         public static bool IsConnected()
         {
             return isConnected;
         }
+        /// <summary>
+        /// Set data cho PLC
+        /// </summary>
+        /// <param name="device">Địa chỉ trên PLC</param>
+        /// <param name="data">Dữ liệu truyền xuống PLC</param>
+        /// <returns>Return true nếu set thành công</returns>
         public static bool SetDevice(string device, int data)
         {
             try
@@ -73,6 +94,12 @@ namespace _01_ServoControl
                 return false;
             }
         }
+        /// <summary>
+        /// Get data từ PLC
+        /// </summary>
+        /// <param name="device">Địa chỉ cần lấy data</param>
+        /// <param name="data">Data trả về</param>
+        /// <returns>Return true nếu lấy data thành công</returns>
         public static bool GetDevice(string device, out int data)
         {
             try
@@ -94,11 +121,6 @@ namespace _01_ServoControl
                 data = 0;
                 return false;
             }
-        }
-
-        internal static bool Connect()
-        {
-            throw new NotImplementedException();
         }
     }
 }

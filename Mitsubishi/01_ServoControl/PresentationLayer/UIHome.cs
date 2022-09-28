@@ -28,15 +28,21 @@ namespace _01_ServoControl
             updateData.IsBackground = true;
             updateData.Start();
         }
+        /// <summary>
+        /// Thread liên tục lấy dữ liệu từ PLC truyền lên UI, các thông số như Position, Speed...
+        /// </summary>
         void UpdateData()
         {
             while(true)
             {
                 try
                 {
-                    int readData;
-                    PLCConnector.GetDevice("D12", out readData);
-                    txtCurrentPosition.Text = readData.ToString();      
+                   if(PLCConnector.IsConnected())
+                    {
+                        int readData;
+                        PLCConnector.GetDevice("D12", out readData);
+                        txtCurrentPosition.Text = readData.ToString();
+                    }                         
                 }
                 catch (Exception ex)
                 {
@@ -46,34 +52,49 @@ namespace _01_ServoControl
                 Thread.Sleep(100);
             }
         }
+        //Nhấn vào StripMenu Connection, mở UI Connection
         private void connectionToolStripMenuItem_Click(object sender, EventArgs e)
         {
             UIConnection gui = new UIConnection();
             gui.Show();
         }
-
+        //Jog+
         private void btnJogUp_Click(object sender, EventArgs e)
         {
             try
             {
-                PLCConnector.SetDevice("M44", 1);
-                Thread.Sleep(10);
-                PLCConnector.SetDevice("M44", 0);
-            }
+                if (PLCConnector.IsConnected())
+                {
+                    PLCConnector.SetDevice("M45", 1);
+                    Thread.Sleep(10);
+                    PLCConnector.SetDevice("M45", 0);
+                }
+                else
+                {
+                    MessageBox.Show("Check connection", Name, MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }  
+            }     
             catch(Exception ex)
             {
                 MessageBox.Show(ex.Message, "Manual", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
         }
-
+        //Jog-
         private void btnJogDown_Click(object sender, EventArgs e)
         {
             try
             {
-                PLCConnector.SetDevice("M45", 1);
-                Thread.Sleep(10);
-                PLCConnector.SetDevice("M45", 0);
+                if (PLCConnector.IsConnected())
+                {
+                    PLCConnector.SetDevice("M44", 1);
+                    Thread.Sleep(10);
+                    PLCConnector.SetDevice("M44", 0);
+                }
+                else
+                {
+                    MessageBox.Show("Check connection", Name, MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
             }
             catch (Exception ex)
             {

@@ -46,7 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BusinessLogicLayer\PLCConnector.cs" />
+    <Compile Include="DataTransferObject\PLCConnector.cs" />
     <Compile Include="DataAccessLayer\MXDriver.cs" />
     <Compile Include="PresentationLayer\UIHome.cs">
       <SubType>Form</SubType>
