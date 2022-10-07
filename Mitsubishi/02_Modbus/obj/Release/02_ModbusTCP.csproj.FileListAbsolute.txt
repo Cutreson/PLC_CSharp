@@ -1,0 +1,14 @@
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\02_Modbus\bin\Release\02_Modbus.exe.config
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\02_Modbus\bin\Release\02_Modbus.exe
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\02_Modbus\bin\Release\02_Modbus.pdb
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\02_Modbus\bin\Release\EasyModbus.dll
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\02_Modbus\obj\Release\02_ModbusTCP.csproj.AssemblyReference.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\02_Modbus\obj\Release\02_ModbusTCP.csproj.SuggestedBindingRedirects.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\02_Modbus\obj\Release\_02_Modbus.PresentationLayer.UIConnection.resources
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\02_Modbus\obj\Release\_02_Modbus.PresentationLayer.UIHome.resources
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\02_Modbus\obj\Release\_02_Modbus.Properties.Resources.resources
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\02_Modbus\obj\Release\02_ModbusTCP.csproj.GenerateResource.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\02_Modbus\obj\Release\02_ModbusTCP.csproj.CoreCompileInputs.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\02_Modbus\obj\Release\02_ModbusTCP.csproj.CopyComplete
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\02_Modbus\obj\Release\02_Modbus.exe
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\02_Modbus\obj\Release\02_Modbus.pdb

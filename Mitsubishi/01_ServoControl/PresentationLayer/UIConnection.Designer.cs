@@ -86,7 +86,7 @@
             this.label2.TabIndex = 4;
             this.label2.Text = "Set Connection";
             // 
-            // GUIConnection
+            // UIConnection
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -96,9 +96,10 @@
             this.Controls.Add(this.btnConnect);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtLogicalStationNumber);
-            this.Name = "GUIConnection";
+            this.Name = "UIConnection";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Connection";
+            this.Load += new System.EventHandler(this.UIConnection_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

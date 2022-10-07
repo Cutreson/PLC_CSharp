@@ -69,5 +69,10 @@ namespace _01_ServoControl
                 return;
             }
         }
+
+        private void UIConnection_Load(object sender, EventArgs e)
+        {
+            txtLogicalStationNumber.Text = "1";
+        }
     }
 }

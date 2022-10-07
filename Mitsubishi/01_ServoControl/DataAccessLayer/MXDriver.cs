@@ -67,6 +67,7 @@ namespace _01_ServoControl
         public static bool IsConnected()
         {
             return isConnected;
+
         }
         /// <summary>
         /// Set data cho PLC
@@ -74,13 +75,13 @@ namespace _01_ServoControl
         /// <param name="device">Địa chỉ trên PLC</param>
         /// <param name="data">Dữ liệu truyền xuống PLC</param>
         /// <returns>Return true nếu set thành công</returns>
-        public static bool SetDevice(string device, int data)
+        public static bool SetDevice(string device, short data)
         {
             try
             {
                 if (isConnected)
                 {
-                    plc.SetDevice(device, data);
+                    plc.SetDevice2(device, data);
                     return true;
                 }
                 else
@@ -100,13 +101,13 @@ namespace _01_ServoControl
         /// <param name="device">Địa chỉ cần lấy data</param>
         /// <param name="data">Data trả về</param>
         /// <returns>Return true nếu lấy data thành công</returns>
-        public static bool GetDevice(string device, out int data)
+        public static bool GetDevice(string device, out short data)
         {
             try
             {
                 if (isConnected)
                 {
-                    plc.GetDevice(device, out data);
+                    plc.GetDevice2(device, out data);
                     return true;
                 }
                 else

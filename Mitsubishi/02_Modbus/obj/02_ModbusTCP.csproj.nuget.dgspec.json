@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\SORA\\Module PLC CSharp\\PLC_CSharp\\Mitsubishi\\02_Modbus\\02_ModbusTCP.csproj": {}
+  },
+  "projects": {
+    "D:\\SORA\\Module PLC CSharp\\PLC_CSharp\\Mitsubishi\\02_Modbus\\02_ModbusTCP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SORA\\Module PLC CSharp\\PLC_CSharp\\Mitsubishi\\02_Modbus\\02_ModbusTCP.csproj",
+        "projectName": "02_ModbusTCP",
+        "projectPath": "D:\\SORA\\Module PLC CSharp\\PLC_CSharp\\Mitsubishi\\02_Modbus\\02_ModbusTCP.csproj",
+        "packagesPath": "C:\\Users\\dinhh\\.nuget\\packages\\",
+        "outputPath": "D:\\SORA\\Module PLC CSharp\\PLC_CSharp\\Mitsubishi\\02_Modbus\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\dinhh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "EasyModbusTCP": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

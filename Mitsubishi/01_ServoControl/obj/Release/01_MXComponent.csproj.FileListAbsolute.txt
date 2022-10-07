@@ -1,0 +1,15 @@
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\bin\Release\01_ServoControl.exe.config
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\bin\Release\01_ServoControl.exe
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\bin\Release\01_ServoControl.pdb
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\bin\Release\Interop.ActUtlTypeLib.dll
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\obj\Release\01_MXComponent.csproj.AssemblyReference.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\obj\Release\01_MXComponent.csproj.SuggestedBindingRedirects.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\obj\Release\Interop.ActUtlTypeLib.dll
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\obj\Release\01_MXComponent.csproj.ResolveComReference.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\obj\Release\_01_ServoControl.UIHome.resources
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\obj\Release\_01_ServoControl.UIConnection.resources
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\obj\Release\_01_ServoControl.Properties.Resources.resources
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\obj\Release\01_MXComponent.csproj.GenerateResource.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\obj\Release\01_MXComponent.csproj.CoreCompileInputs.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\obj\Release\01_ServoControl.exe
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\01_ServoControl\obj\Release\01_ServoControl.pdb

@@ -1,0 +1,14 @@
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\03_SLMP\bin\Release\03_SLMP.exe.config
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\03_SLMP\bin\Release\03_SLMP.exe
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\03_SLMP\bin\Release\03_SLMP.pdb
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\03_SLMP\obj\Release\03_SLMP.csproj.AssemblyReference.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\03_SLMP\obj\Release\03_SLMP.csproj.SuggestedBindingRedirects.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\03_SLMP\obj\Release\_03_SLMP.Properties.Resources.resources
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\03_SLMP\obj\Release\03_SLMP.csproj.GenerateResource.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\03_SLMP\obj\Release\03_SLMP.csproj.CoreCompileInputs.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\03_SLMP\obj\Release\03_SLMP.csproj.CopyComplete
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\03_SLMP\obj\Release\03_SLMP.exe
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\03_SLMP\obj\Release\03_SLMP.pdb
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\03_SLMP\bin\Release\SlmpProtocol.pdb
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\03_SLMP\bin\Release\SlmpProtocol.dll
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\03_SLMP\obj\Release\_03_SLMP.PresentationLayer.UIHome.resources
