@@ -1,0 +1,2 @@
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\SLMPProtocol\obj\Release\SlmpProtocol.csproj.AssemblyReference.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\SLMPProtocol\obj\Release\SlmpProtocol.csproj.CoreCompileInputs.cache

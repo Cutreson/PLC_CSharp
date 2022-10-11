@@ -1,0 +1,54 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\SORA\\Module PLC CSharp\\PLC_CSharp\\Mitsubishi\\SLMPProtocol\\SLMPProtocol.csproj": {}
+  },
+  "projects": {
+    "D:\\SORA\\Module PLC CSharp\\PLC_CSharp\\Mitsubishi\\SLMPProtocol\\SLMPProtocol.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SORA\\Module PLC CSharp\\PLC_CSharp\\Mitsubishi\\SLMPProtocol\\SLMPProtocol.csproj",
+        "projectName": "SLMPProtocol",
+        "projectPath": "D:\\SORA\\Module PLC CSharp\\PLC_CSharp\\Mitsubishi\\SLMPProtocol\\SLMPProtocol.csproj",
+        "packagesPath": "C:\\Users\\dinhh\\.nuget\\packages\\",
+        "outputPath": "D:\\SORA\\Module PLC CSharp\\PLC_CSharp\\Mitsubishi\\SLMPProtocol\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dinhh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
