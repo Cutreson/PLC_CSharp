@@ -1,0 +1,14 @@
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\04_SLMPTestRepeat\bin\x64\Release\04_SLMPTestRepeat.exe.config
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\04_SLMPTestRepeat\bin\x64\Release\04_SLMPTestRepeat.exe
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\04_SLMPTestRepeat\bin\x64\Release\04_SLMPTestRepeat.pdb
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\04_SLMPTestRepeat\bin\x64\Release\SlmpProtocol.dll
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\04_SLMPTestRepeat\bin\x64\Release\SlmpProtocol.pdb
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\04_SLMPTestRepeat\obj\x64\Release\04_SLMPTestRepeat.csproj.AssemblyReference.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\04_SLMPTestRepeat\obj\x64\Release\04_SLMPTestRepeat.csproj.SuggestedBindingRedirects.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\04_SLMPTestRepeat\obj\x64\Release\_04_SLMPTestRepeat.Form1.resources
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\04_SLMPTestRepeat\obj\x64\Release\_04_SLMPTestRepeat.Properties.Resources.resources
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\04_SLMPTestRepeat\obj\x64\Release\04_SLMPTestRepeat.csproj.GenerateResource.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\04_SLMPTestRepeat\obj\x64\Release\04_SLMPTestRepeat.csproj.CoreCompileInputs.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\04_SLMPTestRepeat\obj\x64\Release\04_SLMPTestRepeat.csproj.CopyComplete
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\04_SLMPTestRepeat\obj\x64\Release\04_SLMPTestRepeat.exe
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\04_SLMPTestRepeat\obj\x64\Release\04_SLMPTestRepeat.pdb

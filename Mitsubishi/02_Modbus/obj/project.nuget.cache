@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jslIUcTGRx5dw2Uw4fYnQFgej/GY4K1Yd37KIbzTHrCH7scRwzipjXmC4wFIqIMWeGuhgpLg8kur93+59Vio0w==",
+  "success": true,
+  "projectFilePath": "D:\\SORA\\Module PLC CSharp\\PLC_CSharp\\Mitsubishi\\02_Modbus\\02_ModbusTCP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dinhh\\.nuget\\packages\\easymodbustcp\\5.6.0\\easymodbustcp.5.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

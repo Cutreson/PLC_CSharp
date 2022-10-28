@@ -1,0 +1,13 @@
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\04_SLMPTestRepeat\bin\Debug\04_SLMPTestRepeat.exe.config
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\04_SLMPTestRepeat\bin\Debug\04_SLMPTestRepeat.exe
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\04_SLMPTestRepeat\bin\Debug\04_SLMPTestRepeat.pdb
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\04_SLMPTestRepeat\bin\Debug\SlmpProtocol.dll
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\04_SLMPTestRepeat\bin\Debug\SlmpProtocol.pdb
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\04_SLMPTestRepeat\obj\Debug\_04_SLMPTestRepeat.Form1.resources
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\04_SLMPTestRepeat\obj\Debug\_04_SLMPTestRepeat.Properties.Resources.resources
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\04_SLMPTestRepeat\obj\Debug\04_SLMPTestRepeat.csproj.GenerateResource.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\04_SLMPTestRepeat\obj\Debug\04_SLMPTestRepeat.csproj.CoreCompileInputs.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\04_SLMPTestRepeat\obj\Debug\04_SLMPTestRepeat.csproj.CopyComplete
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\04_SLMPTestRepeat\obj\Debug\04_SLMPTestRepeat.exe
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\04_SLMPTestRepeat\obj\Debug\04_SLMPTestRepeat.pdb
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\04_SLMPTestRepeat\obj\Debug\04_SLMPTestRepeat.csproj.AssemblyReference.cache

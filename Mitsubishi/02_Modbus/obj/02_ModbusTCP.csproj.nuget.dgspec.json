@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "D:\\SORA\\Module PLC CSharp\\PLC_CSharp\\Mitsubishi\\02_Modbus\\02_ModbusTCP.csproj",
-        "projectName": "02_ModbusTCP",
+        "projectName": "02_Modbus",
         "projectPath": "D:\\SORA\\Module PLC CSharp\\PLC_CSharp\\Mitsubishi\\02_Modbus\\02_ModbusTCP.csproj",
         "packagesPath": "C:\\Users\\dinhh\\.nuget\\packages\\",
         "outputPath": "D:\\SORA\\Module PLC CSharp\\PLC_CSharp\\Mitsubishi\\02_Modbus\\obj\\",

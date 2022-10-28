@@ -1,0 +1,6 @@
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\SlmpProtocol\bin\x64\Release\SlmpProtocol.dll
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\SlmpProtocol\bin\x64\Release\SlmpProtocol.pdb
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\SlmpProtocol\obj\x64\Release\SlmpProtocol.csproj.AssemblyReference.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\SlmpProtocol\obj\x64\Release\SlmpProtocol.csproj.CoreCompileInputs.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\SlmpProtocol\obj\x64\Release\SlmpProtocol.dll
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\SlmpProtocol\obj\x64\Release\SlmpProtocol.pdb

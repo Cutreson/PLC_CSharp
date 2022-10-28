@@ -1,0 +1,5 @@
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\SlmpProtocol\bin\Debug\SlmpProtocol.dll
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\SlmpProtocol\bin\Debug\SlmpProtocol.pdb
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\SlmpProtocol\obj\Debug\SlmpProtocol.csproj.CoreCompileInputs.cache
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\SlmpProtocol\obj\Debug\SlmpProtocol.dll
+D:\SORA\Module PLC CSharp\PLC_CSharp\Mitsubishi\SlmpProtocol\obj\Debug\SlmpProtocol.pdb

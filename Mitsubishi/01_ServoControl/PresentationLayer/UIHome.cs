@@ -61,7 +61,7 @@ namespace _01_ServoControl
                         lbConnectionStatus.Text = "Not Connected";
                     }
                 }
-                catch(Exception ex)
+                catch
                 {
                     isConnected = false;
                     lbConnectionStatus.Text = "Not Connected";
